@@ -1,0 +1,6 @@
+1. perbaiki skin richtextfx (skip karena ga bisa)
+2. urut field -> drag n drop row table
+3. save layer to BMF file with enkripsi
+4. exclude layer
+5. urut field
+6. preview

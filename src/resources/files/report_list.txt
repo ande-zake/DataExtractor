@@ -1,0 +1,53 @@
+GI240     GL Successful uploading from Salary
+GI307     G/L transaction journal print
+L1901     Loan Exception Items
+IA003     Laporan Umur Aging Transaksi IA (Detail)
+IA004     Laporan Transaksi IA yang telah di
+GI450     G/L Daily Balance Sheet Report
+RI151     LAP SISA PERSEDIAAN BILYET&SERT
+GI405     Daily Trial Balance - Brn/Curr
+IA001     Laporan Transaksi IA Hari ini (Detail)
+IA002     Laporan Umur Aging Transaksi IA (Summary)
+LI310     Daily Transaction Listing
+LW319     IPTW GUGUR
+DI830     Laporan Trx DD Interface SAP-BRINETS
+CI160     TIME DEPOSIT INTEREST PAYMENT DAILY REPORT
+TL507     ATM Transaction Report
+CI151     TIME DEPOSIT NEW ACCOUNT WITH SPECIAL RATE LIST
+GIA05     Laporan Exceptional (IA yang tidak di
+IA008     Laporan Penyelesaian Nota Masuk (Uker
+IA009     Laporan Umur Aging Nota Keluar (Uker Trx)
+RI156     LAP CEK&BIL GIRO YG TERPAKAI
+RI157     LAP SISA PERS CEK&BILYET GIRO
+RI155     LAP PERS CEK&BILYET GIRO
+IA007     Laporan Penyelesaian Nota Keluar (Uker Trx)
+GI455     G/L Consolidated Balance Sheet in IDR
+L2839     Daily Control Summary - Branch
+CI836     TD Reminder Notice
+FI109     Daily CIF Opening - Personal Report
+LW320     IPTW SUCCESS
+DI840     Laporan Trx IA Interface SAP-BRINETS
+TL506     Teller Transaction Report
+GY460     G/L front end inter-branch transaction
+IA006     Laporan Nota Masuk Hari Ini (Uker Tujuan)
+CI730     TD Memo Int/princ payment
+RI148     LAP PERS BILYET DEPO & SERTIBRI
+RI149     LAP BILYET DEPO&SERT YG TERPAKAI
+IA010     Laporan Umur Aging Nota Masuk (Uker Tujuan)
+L2150     Print Billing Notice List
+L1500     Print late Charges Assessed report
+DI143     Summary total saldo CASA Per sub ledger
+DI314     CA/SA daily unposted monetary transaction
+CI725     TD PAYMENT TO CA/SA 99/99/99
+LW349     Laporan Register Sisa Pinjaman Non Tapsun
+GI456     G/L Consolidated Balance Sheet in IDR
+DI313     CA/SA daily IBT monetary transactions report
+CI309     FIXED DEPOSIT EXCEPTIONAL
+DI350     Current Account Stop Payment Cheque Report
+DI353     CA cheque book issued report
+GI451     G/L Daily Profit and Loss Report
+LS002     FLAT FILE DATA Debitur untuk Request DIN
+DI420     Laporan Posisi Saldo Giro Report Format
+DI968     Salary Crediting Adhoc Successful
+GIA02     Laporan Umur Trx GL-IA sampai hari ini
+GIA03     Laporan Umur Trx GL-IA Sampai Hari Ini (Detail)
